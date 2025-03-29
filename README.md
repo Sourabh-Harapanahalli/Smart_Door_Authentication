@@ -105,9 +105,5 @@ aws cloudformation deploy --template-file cloudformation.yml --stack-name SmartD
 ## 📜 License
 This project is licensed under the **Apache 2.0 License**.
 
-## 📩 Contact
-For any issues or feature requests, open an issue on GitHub or reach out via email.
 
-📧 Email: your-email@example.com  
-🐙 GitHub: [Smart_Door_Authentication](https://github.com/sourabh-harapanahalli/Smart_Door_Authentication)
 
